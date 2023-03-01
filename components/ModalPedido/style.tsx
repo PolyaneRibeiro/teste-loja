@@ -14,7 +14,7 @@ export const Main = styled.div`
     margin: 0 auto;
     background-color: white;
     position: absolute;
-    z-index: 20%;
+    z-index: 2;
     right: 20%;
     top: 30%;
     border-radius: 20px;
